@@ -1,3 +1,3 @@
 Bienvenido. Saluda a la clase.
 
-Hola, soy **Natanael Gómez Ortiz** y mi usuario de GitHub es `H4ckX0R`
+Hola, soy **Natanael** y mi usuario de GitHub es [`H4ckX0R`](https://github.com/H4ckX0R)
