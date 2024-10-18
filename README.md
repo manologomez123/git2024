@@ -19,3 +19,5 @@ Hola soy Gabriel y mi usuario es Gmartie
 Hola soy Manuel Gutierrez y mi usuario es Gutixis
 Hola soy Mario Romero Delgado (MBAPPE)
 Hola soy luis sánchez y  mi usuario es luisanche
+Hola soy Candela Écija Navarro y mi usuario de github es CandelaEcijaNavarro (https://github.com/CandelaEcijaNavarro)
+
