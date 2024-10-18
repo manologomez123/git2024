@@ -17,3 +17,4 @@ Hola soy Javier Castillo Luque y mi usuario de github es JavierCastilloLuque
 Hola soy Ruben Arjona y mi usuario de github es Ruben-ral 
 Hola soy Gabriel y mi usuario es Gmartie
 Hola soy Manuel Gutierrez y mi usuario es Gutixis
+Hola soy Mario Romero Delgado (MBAPPE)
