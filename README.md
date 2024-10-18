@@ -4,7 +4,6 @@ Hola soy Lucas Curiel Gomez y mi usuario de github es luc4s-h4cks
 Hola, soy **Natanael** y mi usuario de GitHub es [`H4ckX0R`](https://github.com/H4ckX0R)
 Hola soy Juan Leiva y mi usuario es juanillo7
 Soy Miguel San Roman, mi usuario es Miguelsre10
-Hola, soy Maria Araceli Pacheco Arjona, mi usuario de GitHub es MariaAraceli Pacheco https://github.com/MariaAraceliPacheco
 Hola mi nombre de usuario es Rafa-nc1724
 Hola soy José Antonio Marín Fernández y mi usuario de github es JoseAntonio105
 Hola soy Vicente Centeno y mi nombre de usuario en GitHub es VicenteC6
@@ -22,4 +21,4 @@ Hola soy Mario Romero Delgado (MBAPPE)
 Hola soy luis sánchez y  mi usuario es luisanche
 Hola soy Candela Écija Navarro y mi usuario de github es CandelaEcijaNavarro (https://github.com/CandelaEcijaNavarro)
 Hola, soy Maria Araceli Pacheco Arjona, mi usuario de GitHub es MariaAraceli Pacheco https://github.com/MariaAraceliPacheco
-
+Hola soy Manuel Varo Pérez ( GOKU )
